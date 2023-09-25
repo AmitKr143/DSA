@@ -25,6 +25,7 @@ public class ArrayListTest<E> extends AbstractList<E> implements List<E>, Random
 	 */
 	private static final Object[] DEFAULTCAPACITY_EMPTY_ELEMENTDATA = {};
 	
+	
 	/*
 	 * The array buffer into which the elements of the ArrayList would be stored.
 	 * the capacity of the ArrayList is the length of this array buffer. Any
